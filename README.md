@@ -14,7 +14,7 @@ Database name: "test"<br>
 <br>
 2-Open test file 
 <br>
-3-Make this scripts
+3-Make this scripts (using Visual Studio Code)
 <br>
   3.1- pip install request
   <br>
